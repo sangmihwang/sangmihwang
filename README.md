@@ -15,7 +15,7 @@ ___
 
 ___
 
-### 💬 Languages and Tools(Hopefully):
+### 💬 Languages and Tools:
 
 
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>

@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Hello%20World&fontSize=50&fontAlign=80&fontAlignY=30&rotate=10&desc=It's%20Sangmi&descSize=20&descAlign=80&descAlignY=90)" />
 
 <div>
-  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="360" height="260" />
+  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="340" height="260" />
 </div>
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sangmihwang&&show_icons=true&theme=blue)

@@ -10,7 +10,7 @@
 
 ___
 
-### 💬 Learning in SSAFY 
+### 💬 Now in SSAFY 
 <br/>
 
 ___

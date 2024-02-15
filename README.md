@@ -12,7 +12,6 @@ ___
 
 ### 💬 Now in SSAFY 
 <br/>
-[![코드트리|실력진단-hsm4366](https://banner.codetree.ai/v1/banner/hsm4366)](https://www.codetree.ai/profiles/hsm4366)
 ___
 
 ### 💬 Languages and Tools:

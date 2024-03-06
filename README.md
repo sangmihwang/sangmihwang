@@ -10,12 +10,13 @@
 
 ___
 
-### 💬 Now in SSAFY 
+### 💬 Samsung SW Academy for Youth(SSAFY) 9th 
 <br/>
 
 ___
 
 ### 💬 Languages and Tools:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangmihwang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>

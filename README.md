@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Hello%20World&fontSize=50&fontAlign=80&fontAlignY=30&rotate=10&desc=It's%20Sangmi&descSize=20&descAlign=80&descAlignY=90)" />
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangmihwang)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sangmihwang&&show_icons=true&theme=blue)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangmihwang)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 

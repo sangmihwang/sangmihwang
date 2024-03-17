@@ -5,11 +5,10 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangmihwang)](https://github.com/anuraghazra/github-readme-stats)
-
 ___
 
 ### 💬 Samsung SW Academy for Youth(SSAFY) 9th 
+2023.01.02 - 2023.12.29
 <br/>
 
 ___
@@ -19,7 +18,6 @@ ___
 
 
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/python/java-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>

@@ -21,9 +21,12 @@ ___
 
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>

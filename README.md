@@ -9,7 +9,7 @@
 
 ___
 
-### 💬 Samsung SW Academy for Youth(SSAFY) 9th 
+### 💬 Samsung Software Academy for Youth(SSAFY) 9th 
 2023.01.02 - 2023.12.29
 <br/>
 
